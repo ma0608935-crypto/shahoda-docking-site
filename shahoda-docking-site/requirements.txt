@@ -1,6 +1,6 @@
 streamlit
 streamlit-ketcher
-rdkit
+rdkit-pypi
 requests
 fpdf2
 pandas
