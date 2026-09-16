@@ -1,6 +1,6 @@
 streamlit==1.64.0
 streamlit-ketcher==0.0.1
-rdkit==2026.3.6
+rdkit==2024.3.5
 numpy>=1.26,<2
 requests==2.34.2
 fpdf2==2.8.8
